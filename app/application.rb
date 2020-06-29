@@ -8,5 +8,5 @@ class Application
       resp.write "Good Aftermoon!"
       
   end
-  
+  resp.finish
 end
